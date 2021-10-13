@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+  <body>
+    <div xml:lang="en">
+     <p begin="00:00:03.458" end="00:00:06.791">Barriers to accessibility are obstacles that make things more difficult,</p>
+			<p begin="00:00:06.791" end="00:00:10.125">and sometimes impossible, for those of us with disabilities.</p>
+			<p begin="00:00:10.416" end="00:00:12.083">Barriers exclude people.</p>
+			<p begin="00:00:12.541" end="00:00:15.083">But when we understand and remove these barriers,</p>
+			<p begin="00:00:15.083" end="00:00:19.458">we create an accessible federal public service that is inclusive for everyone.</p>
+			<p begin="00:00:19.750" end="00:00:21.125">Let's look at an example:</p>
+			<p begin="00:00:22.291" end="00:00:26.375">Julio has been working in the federal public service for around eight years.</p>
+			<p begin="00:00:26.791" end="00:00:31.625">His left leg was recently amputated and he now uses a wheelchair to get around.</p>
+			<p begin="00:00:32.000" end="00:00:34.500">There are two stairs that lead to his office,</p>
+			<p begin="00:00:34.500" end="00:00:37.916">which create a barrier and prevent him from going to work.</p>
+			<p begin="00:00:38.708" end="00:00:41.500">As a solution, his employer installed a ramp.</p>
+			<p begin="00:00:42.083" end="00:00:45.708">Julio can now get to his office -- just like he used to.</p>
+			<p begin="00:00:46.458" end="00:00:48.166">But let's think about this for a minute.</p>
+			<p begin="00:00:48.666" end="00:00:51.291">If the office had been built with inclusive design,</p>
+			<p begin="00:00:51.291" end="00:00:53.375">the ramp would have already been there.</p>
+			<p begin="00:00:53.375" end="00:00:56.875">This means Julio would never have been excluded in the first place.</p>
+			<p begin="00:00:57.708" end="00:01:00.041">It's important to consider physical barriers</p>
+			<p begin="00:01:00.041" end="00:01:02.208">to accessibility that might be overlooked.</p>
+			<p begin="00:01:02.625" end="00:01:06.916">Similar to a ramp, automatic doors allow those of us using wheelchairs</p>
+			<p begin="00:01:06.916" end="00:01:10.291">or mobility devices to get in and out of the workspace.</p>
+			<p begin="00:01:10.625" end="00:01:12.916">They also help people with strollers or bicycles,</p>
+			<p begin="00:01:12.916" end="00:01:16.291">and others who might be carrying large bags and boxes.</p>
+			<p begin="00:01:17.291" end="00:01:20.500">Let's make workspaces accessible right from the start.</p>
+			<p begin="00:01:21.000" end="00:01:24.666">Using inclusive design creates a better experience for everyone!</p>
+			<p begin="00:01:25.833" end="00:01:28.666">Accessibility is a big step towards inclusion.</p>
+			<p begin="00:01:28.666" end="00:01:30.666">And it starts by taking action.</p>
+			<p begin="00:01:31.000" end="00:01:32.875">Together, let's build an inclusive</p>
+			<p begin="00:01:32.875" end="00:01:35.875">and accessibility-confident federal public service.</p>
+    </div>
+  </body>
+</tt>
